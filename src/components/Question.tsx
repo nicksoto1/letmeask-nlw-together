@@ -2,7 +2,6 @@ import { ReactNode } from 'react';
 
 import '../styles/question.scss';
 
-
 type QuestionProps = {
 	content: string;
 	author: {
@@ -22,7 +21,7 @@ export function Question({
 			<p>{content}</p>
 			<footer>
 				<div className="user-info">
-					<img src="author.avatar" alt={author.name} />
+					<img src={author.avatar} alt={author.name} />
 					<span>{author.name}</span>
 				</div>
 				<div>
