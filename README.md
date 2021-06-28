@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img  src=".github/letmeask.png" alt="Happy" width="100%">
+  <img  alt="Happy" src=".github/letmeask.png"  width="100%">
 </p>
 
 ## ✨ Tecnologias
