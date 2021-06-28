@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
- <img src=".github/letmeask.png" alt="Page"   width="100%" />
+ <img src=".github/letmeask.png"  width="260px" alt="Page" >
 </p>
 
 ## ✨ Tecnologias
