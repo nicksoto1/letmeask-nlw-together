@@ -55,15 +55,23 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🚀 Como executar
 
+
+# Clonar o repositorio
 ```bash
-# Clone o repositorio
 $ git clone https://github.com/nicksoto1/letmeask-nlw-together.git
+```
+# Acessar o repertório 
+```bash
 $ cd letmeask-nlw-together
+```
 
 # Instalar as dependências
+```bash
 $ yarn
+```
 
 # Iniciar o projeto
+```bash
 $ yarn start
 ```
 
